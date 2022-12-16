@@ -7,7 +7,7 @@ Comando para desplegar contenedor
 docker-compose up -d
 ```
 
-Una vez desplegado el contenedor, hacer clik derecho sobre la imagen wordpressy pulsar Open in Browser
+Una vez desplegado el contenedor, hacer clik derecho sobre la imagen wordpress y pulsar Open in Browser
 
 _archivo yml_
 
