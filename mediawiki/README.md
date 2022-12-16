@@ -27,4 +27,6 @@ volumes:
     database:
     images:
 ```
+_Archivos de referencia_
 
+* [YML](https://www.mediawiki.org/wiki/Docker/Hub) - Usado para generar yml
