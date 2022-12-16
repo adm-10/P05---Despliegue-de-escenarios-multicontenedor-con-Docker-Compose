@@ -1,5 +1,5 @@
 
-### Servidor Apache 🔧
+### Wordpress🔧
 
 Comando para desplegar contenedor
 
