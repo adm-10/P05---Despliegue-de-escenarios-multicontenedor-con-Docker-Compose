@@ -23,3 +23,8 @@ services:
     - ./website:/usr/local/apache2/htdocs
 ```
 _Se creo una carpeta website, con la ruta donde se alojaran el htdocs_
+
+
+_Archivos de referencia_
+
+* [YML](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Simple-Apache-docker-compose-example-with-Dockers-httpd-image) - Usado para generar yml
