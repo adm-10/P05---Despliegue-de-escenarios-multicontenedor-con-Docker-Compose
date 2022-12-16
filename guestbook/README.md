@@ -27,3 +27,6 @@ services:
 ```
 
 
+_Archivos de referencia_
+
+* [YML](https://josedom24.github.io/curso_docker_2022/sesion4/guestbook.html) - Usado para generar yml
